@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-css",
+  "version": "1.0.0",
+  "description": "bug demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "stylelint index.js & exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "astroturf": "^0.9.2",
+    "stylelint": "^9.10.1",
+    "stylelint-config-prettier": "^5.0.0",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
